@@ -1,6 +1,6 @@
 ### Hi there, I'm Arda and I'm an aspiring web/mobile developer! 👋
 
-![image](https://github.com/coderarda/coderarda/assets/70967004/6e2446b8-6286-4a55-a3b9-e93ed2cb09ae)
+![image](https://github.com/coderarda/coderarda/assets/70967004/6e2446b8-6286-4a55-a3b9-e93ed2cb09ae) { width: 100px; }
 
 - 🔭 I’m currently working on my next.js project
 - 🌱 I’m currently learning SwftUI
