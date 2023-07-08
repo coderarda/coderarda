@@ -1,7 +1,6 @@
 ### Hi there, I'm Arda and I'm an aspiring web/mobile developer! 👋
 
-![image]{ width: 100px; }(https://github.com/coderarda/coderarda/assets/70967004/6e2446b8-6286-4a55-a3b9-e93ed2cb09ae) 
-
+<img src="https://github.com/coderarda/coderarda/assets/70967004/b384e328-bd59-49a8-8bb2-21aaa406448e" width="100px"></img>
 - 🔭 I’m currently working on my next.js project
 - 🌱 I’m currently learning SwftUI
 - 👯 I’m looking to collaborate on Android/Cross-Platform apps.
