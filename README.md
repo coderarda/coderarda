@@ -1,7 +1,8 @@
 ### Hi there, I'm Arda and I'm an aspiring web/mobile developer! 👋
 
-<img src="https://github.com/coderarda/coderarda/assets/70967004/b384e328-bd59-49a8-8bb2-21aaa406448e" width="300px"></img>
-- 🔭 I’m currently working on my next.js project
+<iframe src="https://giphy.com/embed/b7f0X8Okk1uyk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-do-it-b7f0X8Okk1uyk"></a></p>
+
+- 🔭 I’m currently working on my Next.js project
 - 🌱 I’m currently learning SwftUI
 - 👯 I’m looking to collaborate on Android/Cross-Platform apps.
 - 🤔 I’m looking for help with OpenGL/Vulkan (side project)
