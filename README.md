@@ -1,6 +1,6 @@
 ### Hi there, I'm Arda and I'm an aspiring web/mobile developer! 👋
 
-<iframe src="https://giphy.com/embed/b7f0X8Okk1uyk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-do-it-b7f0X8Okk1uyk"></a></p>
+<iframe src="https://giphy.com/embed/b7f0X8Okk1uyk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🔭 I’m currently working on my Next.js project
 - 🌱 I’m currently learning SwftUI
