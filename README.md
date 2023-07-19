@@ -1,4 +1,4 @@
-### Hi there, I'm Arda and I'm an aspiring web/mobile developer! 👋
+### Hi there, I'm Arda and I'm an aspiring developer! 👋
 
 
 - 🔭 I’m currently working on my Next.js project
