@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on my Next.js project
 - 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on Android/Cross-Platform apps.
-- 🤔 I’m looking for help with OpenGL/Vulkan (side project)
+- 👯 I’m looking to collaborate on Android and Cross-Platform Mobile apps.
+- 🤔 I’m looking for help with Vulkan (side project)
 
 <!--
 **coderarda/coderarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
