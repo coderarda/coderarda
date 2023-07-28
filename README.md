@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my Next.js project
-- 🌱 I’m currently learning SwftUI
+- 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on Android/Cross-Platform apps.
 - 🤔 I’m looking for help with OpenGL/Vulkan (side project)
 
