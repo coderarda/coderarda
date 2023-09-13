@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on my Next.js project
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on Android and Cross-Platform Mobile apps.
+- 🌱 I’m currently learning Android Development and SwiftUI
+- 👯 I’m looking to collaborate on Cross-Platform Mobile apps.
 - 🤔 I’m looking for help with Vulkan (side project)
 
 <!--
