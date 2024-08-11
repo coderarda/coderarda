@@ -1,9 +1,12 @@
-### Hi there, I'm Arda and I'm an aspiring developer! 👋
+### Hi there, I'm Arda and I'm an aspiring developer and Computer Engineering student!👋
 
 
-- 🔭 I’m currently working on my Download Manager project
-- 🌱 I’m currently learning Android Development and SwiftUI
-- 👯 I’m looking to collaborate on Cross-Platform Mobile apps.
+- 🔭 I’m currently working on my Download Manager project.
+- 🌱 I’m currently learning Android Development and Storyboard(iOS).
+- 👯 I’m trying to release The Download Manager.
+- My Socials:
+  - LinkedIn: https://www.linkedin.com/in/arda-akcagoz/
+- You can ask me about React and TypeScript.
 
 <!--
 **coderarda/coderarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
