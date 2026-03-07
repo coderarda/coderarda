@@ -1,7 +1,7 @@
 ### Hi there, I'm Arda and I'm an aspiring developer and Computer Engineering student!👋
 
 
-- 🔭 I’m currently working on my Download Manager project.
+- 🔭 I’m currently working on my AgendaAI iOS app.
 - 🌱 I’m currently learning Android Development and Storyboard(iOS).
 - 👯 I’m trying to release The Download Manager.
 - My Socials:
